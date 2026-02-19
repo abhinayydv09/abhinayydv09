@@ -1,7 +1,16 @@
-# Porfolio
-Hi, I'm Abhinay Kumar Yadav 👋<br><br>AI & Data Science Engineer | Machine Learning | Deep Learning | LLM Systems<br><br>I design and build intelligent systems that transform raw data into scalable, real-world solutions — from predictive modeling to production deployment.<br><br>
+Hi, I'm Abhinay Kumar Yadav 👋<br>
+AI & Data Science Engineer | Machine Learning | Deep Learning | LLM Systems<br>
+I design and build intelligent systems that transform raw data into scalable, real-world solutions — from predictive modeling to production deployment.<br><br>
+
 # 💫 About Me:
-🎓 B.Tech in Artificial Intelligence + PG Program in Data Science<br><br>🤖 Specialized in Machine Learning, Deep Learning, NLP, and LLM applications<br><br>🧠 Strong focus on end-to-end AI systems (data → model → API → deployment)<br><br>📊 Experienced in finance analytics, behavioral modeling, and explainable AI<br><br>⚡ Build production-ready applications using FastAPI, Streamlit, and cloud tools<br><br>🔬 Published researcher (IEEE) in assistive AI technologies<br><br>🌱 Continuously learning advanced ML systems and scalable AI architectures<br><br>💼 Open to roles in Data Science, Machine Learning, and AI Engineering
+🎓 B.Tech in Artificial Intelligence + PG Program in Data Science<br>
+🤖 Specialized in Machine Learning, Deep Learning, NLP, and LLM applications<br>
+🧠 Strong focus on end-to-end AI systems (data → model → API → deployment)<br>
+📊 Experienced in finance analytics, behavioral modeling, and explainable AI<br>
+⚡ Build production-ready applications using FastAPI, Streamlit, and cloud tools<br>
+🔬 Published researcher (IEEE) in assistive AI technologies<br>
+🌱 Continuously learning advanced ML systems and scalable AI architectures<br>
+💼 Open to roles in Data Science, Machine Learning, and AI Engineering
 
 
 
@@ -20,3 +29,4 @@ Hi, I'm Abhinay Kumar Yadav 👋<br><br>AI & Data Science Engineer | Machine Lea
 [![](https://visitcount.itsvg.in/api?id=abhinayydv09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
