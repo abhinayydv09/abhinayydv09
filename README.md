@@ -27,17 +27,17 @@ Currently seeking opportunities where I can contribute to building reliable, sca
 
 ## Core Expertise
 
-|**Programming**  |  Python • SQL  |
+**Programming**  -  Python • SQL 
 
-|**Data Analytics**  |  Pandas • NumPy • Power BI • Excel  |
+**Data Analytics**  -  Pandas • NumPy • Power BI • Excel  
 
-|**Machine Learning**  |  Scikit-learn • TensorFlow • PyTorch • LightGBM  |
+**Machine Learning**  -  Scikit-learn • TensorFlow • PyTorch • LightGBM  
 
-|**Data Engineering**  |  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL  |
+**Data Engineering**  -  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL  
 
-|**Artificial Intelligence**  |  Large Language Models • NLP • Computer Vision • OpenCV  |
+**Artificial Intelligence**  -  Large Language Models • NLP • Computer Vision • OpenCV  
 
-|**Cloud & Development**  |  Azure ML • Git • GitHub  |
+**Cloud & Development**  -  Azure ML • Git • GitHub  
 
 ---
 
