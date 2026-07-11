@@ -10,8 +10,7 @@ Designing scalable data pipelines, machine learning systems, and AI applications
 
 <p align="center">
 <a href="mailto:abhinaykyadav09@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/abhinayy09/">LinkedIn</a> •
-<a href="https://github.com/abhinayydv09">GitHub</a>
+<a href="https://www.linkedin.com/in/abhinayy09/">LinkedIn</a>
 </p>
 
 ---
@@ -28,17 +27,17 @@ Currently seeking opportunities where I can contribute to building reliable, sca
 
 ## Core Expertise
 
-**Programming**  Python • SQL
+|**Programming**  |  Python • SQL  |
 
-**Data Analytics**  Pandas • NumPy • Power BI • Excel
+|**Data Analytics**  |  Pandas • NumPy • Power BI • Excel  |
 
-**Machine Learning**  Scikit-learn • TensorFlow • PyTorch • LightGBM
+|**Machine Learning**  |  Scikit-learn • TensorFlow • PyTorch • LightGBM  |
 
-**Data Engineering**  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL
+|**Data Engineering**  |  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL  |
 
-**Artificial Intelligence**  Large Language Models • NLP • Computer Vision • OpenCV
+|**Artificial Intelligence**  |  Large Language Models • NLP • Computer Vision • OpenCV  |
 
-**Cloud & Development**  Azure ML • Git • GitHub
+|**Cloud & Development**  |  Azure ML • Git • GitHub  |
 
 ---
 
@@ -63,22 +62,10 @@ Currently seeking opportunities where I can contribute to building reliable, sca
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinayydv09&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayydv09&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
-
----
-
 ## Contact
 
-**Email**  abhinaykyadav09@gmail.com
+**Email**       abhinaykyadav09@gmail.com
 
-**LinkedIn**  https://linkedin.com/in/abhinayy09
+**LinkedIn**    https://linkedin.com/in/abhinayy09
 
-**GitHub**  https://github.com/abhinayydv09
+**GitHub**      https://github.com/abhinayydv09
