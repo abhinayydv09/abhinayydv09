@@ -28,29 +28,17 @@ Currently seeking opportunities where I can contribute to building reliable, sca
 
 ## Core Expertise
 
-**Programming**
+**Programming**  Python • SQL
 
-Python • SQL
+**Data Analytics**  Pandas • NumPy • Power BI • Excel
 
-**Data Analytics**
+**Machine Learning**  Scikit-learn • TensorFlow • PyTorch • LightGBM
 
-Pandas • NumPy • Power BI • Excel
+**Data Engineering**  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL
 
-**Machine Learning**
+**Artificial Intelligence**  Large Language Models • NLP • Computer Vision • OpenCV
 
-Scikit-learn • TensorFlow • PyTorch • LightGBM
-
-**Data Engineering**
-
-PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL
-
-**Artificial Intelligence**
-
-Large Language Models • NLP • Computer Vision • OpenCV
-
-**Cloud & Development**
-
-Azure ML • Git • GitHub
+**Cloud & Development**  Azure ML • Git • GitHub
 
 ---
 
@@ -89,14 +77,8 @@ Azure ML • Git • GitHub
 
 ## Contact
 
-**Email**
+**Email**  abhinaykyadav09@gmail.com
 
-abhinaykyadav09@gmail.com
+**LinkedIn**  https://linkedin.com/in/abhinayy09
 
-**LinkedIn**
-
-https://linkedin.com/in/abhinayy09
-
-**GitHub**
-
-https://github.com/abhinayydv09
+**GitHub**  https://github.com/abhinayydv09
