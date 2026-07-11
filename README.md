@@ -1,3 +1,96 @@
+<h1 align="center">Hi 👋, I'm Abhinay Kumar Yadav</h1>
+
+<h3 align="center">Data Scientist • Data Analyst • Data Engineer • AI Engineer</h3>
+
+<p align="center">
+Building end-to-end data and AI solutions—from data analysis and engineering to machine learning and deployment.
+</p>
+
+<p align="center">
+  <a href="mailto:abhinaykyadav09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhinayy09/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Artificial Intelligence
+- 🎓 PGP in Data Science (Praxis Tech School)
+- 🏆 Best Capstone Project Award
+- 📄 IEEE Published Research Author
+- 💡 Interested in Data Analytics, Machine Learning, Data Engineering and Generative AI
+- 🚀 Currently looking for Data Analyst, Data Scientist, Data Engineer and AI Engineer opportunities
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+### Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Data Engineering & AI
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📈 Deep Learning Stock Price Prediction | Time series forecasting using CNN, LSTM and portfolio optimization |
+| 🤖 SQL LLM Chatbot | Natural language to SQL using LLMs, FastAPI and Streamlit |
+| 📰 FinPulse | AI-powered financial news summarization and automation |
+| 🖐 Sign Language Recognition | Computer vision application using OpenCV and Mediapipe |
+| 📊 Mental Health Risk Prediction | Machine learning classification and predictive analytics |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinayydv09&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayydv09&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** abhinaykyadav09@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abhinayy09/
+- 🐙 **GitHub:** https://github.com/abhinayydv09
+
+---
+
+⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi, I'm Abhinay Kumar Yadav 👋</h1>
 
 <h3 align="center">
