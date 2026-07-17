@@ -34,6 +34,7 @@ AI & Data Science graduate with hands-on experience developing end-to-end machin
 **Visualization & BI:** Power BI, Tableau, Reporting, Matplotlib, Azure AI, PySpark, Data Warehousing
 
 **Deep Learning & Generative AI:** TensorFlow, PyTorch, CNN, LSTM, Large Language Models (LLMs), Hugging Face Transformers, Prompt Engineering, RAG, Natural Language-to-SQL
+
 ---
 
 ## Selected Projects
