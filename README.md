@@ -25,11 +25,15 @@ AI & Data Science graduate with hands-on experience developing end-to-end machin
 
 ## Core Expertise
 
-**Programming & Tools** - Python, SQL (PostgreSQL, MySQL, SQLite), Excel, FastAPI, Streamlit, Git, GitHub, Docker
-**Data Analytics** - Pandas, NumPy, Data Cleaning, EDA, ETL, Feature Engineering, Statistical Analysis, Hypothesis Testing, A/B Testing, Time-Series Forecasting, Database Design
-**Machine Learning** - Scikit-learn, LightGBM, Model Evaluation, Hyperparameter Tuning, SHAP
-**Visualization & BI** - Power BI, Tableau, Reporting, Matplotlib, Azure AI, PySpark, Data Warehousing
-**Deep Learning & Generative AI** - TensorFlow, PyTorch, CNN, LSTM, Large Language Models (LLMs), Hugging Face Transformers, Prompt Engineering, RAG, Natural Language-to-SQL
+**Programming & Tools:** Python, SQL (PostgreSQL, MySQL, SQLite), Excel, FastAPI, Streamlit, Git, GitHub, Docker
+
+**Data Analytics:** Pandas, NumPy, Data Cleaning, EDA, ETL, Feature Engineering, Statistical Analysis, Hypothesis Testing, A/B Testing, Time-Series Forecasting, Database Design
+
+**Machine Learning:** Scikit-learn, LightGBM, Model Evaluation, Hyperparameter Tuning, SHAP
+
+**Visualization & BI:** Power BI, Tableau, Reporting, Matplotlib, Azure AI, PySpark, Data Warehousing
+
+**Deep Learning & Generative AI:** TensorFlow, PyTorch, CNN, LSTM, Large Language Models (LLMs), Hugging Face Transformers, Prompt Engineering, RAG, Natural Language-to-SQL
 ---
 
 ## Selected Projects
