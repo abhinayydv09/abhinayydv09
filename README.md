@@ -1,7 +1,7 @@
 <h1 align="center">Abhinay Kumar Yadav</h1>
 
 <p align="center">
-<b>Data Scientist • Data Engineer • AI Engineer • Data Analyst</b>
+<b>AI & Data Science Graduate</b>
 </p>
 
 <p align="center">
@@ -17,28 +17,19 @@ Designing scalable data pipelines, machine learning systems, and AI applications
 
 ## Profile
 
-Artificial Intelligence graduate with a strong foundation in data analytics, machine learning, deep learning, and data engineering.
+AI & Data Science graduate with hands-on experience developing end-to-end machine learning, deep learning, and LLM-powered applications using real-world datasets. Skilled in transforming complex datasets into predictive models, dashboards, and actionable business insights through statistical analysis and data visualization. IEEE publication co-author and Best Capstone Project Award recipient seeking entry-level AI, Machine Learning, Data Science, Data Analytics, and Business Intelligence roles.
 
-My work focuses on building end-to-end solutions—from data acquisition and ETL pipelines to predictive modeling, API development, and deployment.
 
-Currently seeking opportunities where I can contribute to building reliable, scalable, and data-driven products.
 
 ---
 
 ## Core Expertise
 
-**Programming**  -  Python • SQL 
-
-**Data Analytics**  -  Pandas • NumPy • Power BI • Excel  
-
-**Machine Learning**  -  Scikit-learn • TensorFlow • PyTorch • LightGBM  
-
-**Data Engineering**  -  PySpark • FastAPI • Flask • PostgreSQL • MySQL • ETL  
-
-**Artificial Intelligence**  -  Large Language Models • NLP • Computer Vision • OpenCV  
-
-**Cloud & Development**  -  Azure ML • Git • GitHub  
-
+**Programming & Tools** - Python, SQL (PostgreSQL, MySQL, SQLite), Excel, FastAPI, Streamlit, Git, GitHub, Docker
+**Data Analytics** - Pandas, NumPy, Data Cleaning, EDA, ETL, Feature Engineering, Statistical Analysis, Hypothesis Testing, A/B Testing, Time-Series Forecasting, Database Design
+**Machine Learning** - Scikit-learn, LightGBM, Model Evaluation, Hyperparameter Tuning, SHAP
+**Visualization & BI** - Power BI, Tableau, Reporting, Matplotlib, Azure AI, PySpark, Data Warehousing
+**Deep Learning & Generative AI** - TensorFlow, PyTorch, CNN, LSTM, Large Language Models (LLMs), Hugging Face Transformers, Prompt Engineering, RAG, Natural Language-to-SQL
 ---
 
 ## Selected Projects
